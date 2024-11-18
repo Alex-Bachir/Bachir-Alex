@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **HTML,CSS,Python...**
 
 - 📫 How to reach me **alex.bachir@laplateforme.io**
+- - 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
